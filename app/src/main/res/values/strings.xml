@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Coffee Shop</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">1639141619611064</string>
+    <string name="fb_login_protocol_scheme">fb1639141619611064</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="imageview">ImageView</string>
+    <string name="check_email">Periksa email anda</string>
+    <string name="information_email">Kami telah mengirimkan instruksi pemulihan kata sandi ke email anda</string>
+    <string name="open_email">Buka Aplikasi Email</string>
+    <string name="skip_confirmation">Lewati, Saya akan konfirmasi nanti</string>
+    <string name="information_email1">Tidak menerima email? Periksa filter spam Anda</string>
+    <string name="information_email2">atau</string>
+    <string name="another_email">coba alamat email yang lain</string>
+    <string name="set_password">Atur ulang kata sandi</string>
+    <string name="enter_email">Masukkan email yang terkait dengan akun Anda dan kami akan mengirimkan email berisi instruksi untuk mereset kata sandi Anda</string>
+    <string name="email">Email</string>
+    <string name="instruction_reset">Kirim Petunjuk</string>
+    <string name="login_email">Masuk ke akun saya</string>
+    <string name="login_google">Google</string>
+    <string name="login_facebook">Facebook</string>
+    <string name="title_splashscreen">COFFEE</string>
+    <string name="subtitle_splashscreen">BEANS</string>
+    <string name="title_login">Masuk</string>
+    <string name="subtitle_login">Silahkan masuk untuk melanjutkan</string>
+    <string name="input_password_hint">Kata sandi</string>
+    <string name="remember_me">Ingatkan saya</string>
+    <string name="forgot_password">Lupa password?</string>
+    <string name="information_email_login">atau Masuk melalui</string>
+    <string name="not_have_account">Tidak memiliki akun?</string>
+    <string name="title_sign_up">Daftar</string>
+    <string name="subtitle_signup">Daftarkan diri anda</string>
+    <string name="handphone">Nomor Handphone</string>
+    <string name="input_password_again_hint">Kata sandi lagi</string>
+    <string name="agreement">Saya setuju dengan</string>
+    <string name="term_condition">Syarat dan Ketentuan</string>
+    <string name="have_account">Sudah memiliki akun?</string>
+    <string name="input_search_hint">Temukan biji kopi anda</string>
+    <string name="recommendation">Rekomendasi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
